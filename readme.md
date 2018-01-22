@@ -78,7 +78,7 @@ Build Instructions
 
 14. If the lock cycles, congratulations!
 
-**Prototyping notice- Do not leave and prototype device plugged in and unattended, this is how you burn down your house, or worse! I do not take any responsibility for any unintended outcomes, injuries, or damages incurred by undertaking this project.**
+**Prototyping notice: Do not leave any prototype device plugged in and unattended, this is how you burn down your house, or worse! I do not take any responsibility for any unintended outcomes, injuries, or damages incurred by undertaking this project.**
 
 
 -------------------------------------------------
